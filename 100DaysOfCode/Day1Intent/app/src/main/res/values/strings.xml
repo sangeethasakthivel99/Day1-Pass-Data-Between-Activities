@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Day1 Intent</string>
+    <string name="next">Go To Next Activity</string>
+    <string name="back">Go To First Activity</string>
 </resources>

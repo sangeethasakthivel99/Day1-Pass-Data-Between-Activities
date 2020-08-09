@@ -8,22 +8,22 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-   <TextView
-       android:id="@+id/tv_random_number"
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:layout_gravity="center"
-       android:textSize="22sp"
-       android:textColor="@android:color/black"
-       tools:text="Random number" />
+    <TextView
+        android:id="@+id/tv_random_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="22sp"
+        android:textColor="@android:color/black"
+        tools:text="Random number" />
 
     <Button
-        android:id="@+id/button_next"
+        android:id="@+id/button_back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:backgroundTint="@color/colorAccent"
-        android:text="@string/next"
+        android:text="@string/back"
         android:textAllCaps="false" />
 
 
